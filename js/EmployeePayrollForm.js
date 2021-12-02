@@ -1,3 +1,4 @@
+// set event listeners once document is loaded
 window.addEventListener('DOMContentLoaded', (event) => {
     const name = document.querySelector('#name');
     const textError = document.querySelector('.text-error');
