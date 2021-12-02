@@ -4,7 +4,6 @@ class PersonInfo {
      * validating the user inputs using regular expression
      */
 
-    
     get name() {
         return this._name;
     }
